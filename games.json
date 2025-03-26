@@ -2,8 +2,8 @@
     "games": [
       {
         "id": 1,
-        "title": "Concotd 2077",
-        "image": "game1.jpg",
+        "title": "Concord",
+        "image": "https://gameluster.com/wp-content/uploads/2024/09/Concord.jpg",
         "description": "Обещанный шедевр, получившийся коктейлем из багов",
         "votes": 1450
       },
