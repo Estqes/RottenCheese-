@@ -1,5 +1,5 @@
 {
-    "games": [
+    "games": [https://github.com/Estqes/RottenCheese-/blob/main/games.json
       {
         "id": 1,
         "title": "Concord",
@@ -9,21 +9,21 @@
       },
       {
         "id": 2,
-        "title": "Gloomville: Crash Edition",
+        "title": "concord 2",
         "image": "game2.jpg",
         "description": "Город, который падает вместе с FPS",
         "votes": 892
       },
       {
         "id": 3,
-        "title": "Space Collapse",
+        "title": "concord 3",
         "image": "game3.jpg",
         "description": "Космический провал с бесконечными лоадингами",
         "votes": 674
       },
       {
         "id": 4,
-        "title": "Fantasy Frontiers",
+        "title": "concord 5",
         "image": "game4.jpg",
         "description": "Обещания, которые растворились в воздухе",
         "votes": 1203
