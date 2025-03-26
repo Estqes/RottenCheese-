@@ -1,0 +1,32 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "Concotd 2077",
+        "image": "game1.jpg",
+        "description": "Обещанный шедевр, получившийся коктейлем из багов",
+        "votes": 1450
+      },
+      {
+        "id": 2,
+        "title": "Gloomville: Crash Edition",
+        "image": "game2.jpg",
+        "description": "Город, который падает вместе с FPS",
+        "votes": 892
+      },
+      {
+        "id": 3,
+        "title": "Space Collapse",
+        "image": "game3.jpg",
+        "description": "Космический провал с бесконечными лоадингами",
+        "votes": 674
+      },
+      {
+        "id": 4,
+        "title": "Fantasy Frontiers",
+        "image": "game4.jpg",
+        "description": "Обещания, которые растворились в воздухе",
+        "votes": 1203
+      }
+    ]
+}
